@@ -1,0 +1,100 @@
+{
+  "external": {
+    "urls": [
+      {
+        "url": "https://fonts.googleapis.com/css?family=Droid+Sans+Mono"
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/droidsansmono/v7/ns-m2xQYezAtqh7ai59hJYdJ2JT0J65PSe7wdxAnx_I.woff2"
+      },
+      {
+        "url": "https://fonts.googleapis.com/icon?family=Material+Icons"
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/materialicons/v22/2fcrYFNaTjcS6g4U3t-Y5ZjZjT5FdEJ140U2DJYC3mY.woff2"
+      },
+      {
+        "url": "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+      }
+    ]
+  },
+  "routing": {
+    "index": "/index.html",
+    "routes": {
+      "^(?!/styleguide|/docs/.|(?:/guide/(?:cli-quickstart|metadata|ngmodule|service-worker-(?:getstart|comm|configref)|learning-angular)|/news)(?:\\.html|/)?$|/testing|/api/(?:.+/[^/]+-|platform-browser/AnimationDriver|testing|api/|(?:common/(?:NgModel|Control|MaxLengthValidator))|(?:[^/]+/)?(?:NgFor(?:$|-)|AnimationStateDeclarationMetadata|CORE_DIRECTIVES|PLATFORM_PIPES|DirectiveMetadata|HTTP_PROVIDERS))|.*/stackblitz(?:\\.html)?$|.*\\.[^/.]+$)": {
+        "match": "regex"
+      }
+    }
+  },
+  "static": {
+    "urls": {
+      "/3rdpartylicenses.txt": "3d27548e8f986569a7e240c76750074d027dc6d8",
+      "/embedded.module.ae54a2438655153f11ad.chunk.js": "dbbdc312c000feb715b6f107fd588822f009f768",
+      "/favicon.ico": "fcb9f87ad9b5865f1fa4d4a731894a563c1975d0",
+      "/google385281288605d160.html": "50440aea2b4d15588fb03cd1d1f3a37685b73e3d",
+      "/index.html": "0ffd7bd199b35f4b831fb4c4240e823334c14a5a",
+      "/inline.3af79dd7176719ff19b7.bundle.js": "9d25feb6fb2e1668f6d89a2440e8d78217fa8dd0",
+      "/main.6d8933014f51bc721087.bundle.js": "95dc71a76d0989a0cae693ef1447a0caa6d01d85",
+      "/polyfills.4c154c76af75c37320fb.bundle.js": "0dd7050b600883ab85ff817f4cd11acb769493f0",
+      "/prettify.687659fef7c0b3dd2c45.chunk.js": "225535c3e83335b444fa2cf3ff45ee75794e7b7c",
+      "/pwa-manifest.json": "3ad4fe7ea85f4f0f7b1a43c51795dfec915f124c",
+      "/styles.0ea2224440c1706b011e.bundle.css": "058280489b3d854f8b89787304c8fec43e058640",
+      "/styles.0ea2224440c1706b011e.bundle.css.map": "b917e4f14d872a8f5d008c2f219cd736f16ec837",
+      "/app/search/search-worker.js": "bb91e4b16184065e78f6baa42d87d7235ab6209e",
+      "/assets/images/favicons/apple-touch-icon-144x144.png": "224b9678f0fb65fa22557372bff74a3a7d6a7b57",
+      "/assets/images/favicons/favicon-16x16.png": "259681ad77bfa9a5d55fd5bdf5c8a652d93d6867",
+      "/assets/images/favicons/favicon-194x194.png": "90f7c5e268ccfec3c8aa2b038a6173f42e2d839d",
+      "/assets/images/favicons/favicon-32x32.png": "34c35b3f523c31cbe5ebd4b66b2266bd02a26d22",
+      "/assets/images/favicons/favicon-96x96.png": "dbced41d804ba0d24567c0b92dc89ff80796faab",
+      "/assets/images/favicons/favicon.ico": "fcb9f87ad9b5865f1fa4d4a731894a563c1975d0",
+      "/assets/images/logos/angular/angular.png": "e4349727f1fde73ef9b469cf7514e1ac02502bef",
+      "/assets/images/logos/angular/angular.svg": "7bf0f137c15681d7ecc478f01d5e4509c462019a",
+      "/assets/images/logos/angular/angular_solidBlack.png": "27ac66f38324d706a0b441fe0a962e5e415168b7",
+      "/assets/images/logos/angular/angular_solidBlack.svg": "bd46ee5122d3d9983b4f487041f79e9af3cb91de",
+      "/assets/images/logos/angular/angular_whiteTransparent.png": "e2c2667f3134b130a1bf6f5b6b57e8ccdeba3340",
+      "/assets/images/logos/angular/angular_whiteTransparent.svg": "17a23d39a40c489670dcfa32498013d301218da3",
+      "/assets/images/logos/angular/angular_whiteTransparent_withMargin.png": "b43612bd3fd43c76d0f5e1024b3b1415e076ef80",
+      "/assets/images/logos/angular/logo-nav@2x.png": "872032456ff530e5f333b0e6e93dcb1bf85796ff",
+      "/assets/images/logos/angular/shield-large.svg": "d2d02e0a0f47aba251c335a6ffe7f5720d795b1c",
+      "/assets/images/logos/angularjs/AngularJS-Shield.svg": "7b36b7e3d1cb3a426a4f4a42dd01ca5a4ef84d40",
+      "/assets/images/support/angular-404.svg": "507833dd280a6abfbb177b33fc7ba15a2906c77f",
+      "/assets/js/lunr.min.js": "2d887e5149fb94a68c4bcd6fd5e2f43f0737e4f9",
+      "/assets/js/prettify.js": "4bd1e40c55b5514ebb1772bbb288c19d9ead6ca8",
+      "/generated/announcements.json": "776891f53cd7e6b92d44987aadb6c676e25d4a15",
+      "/generated/contributors.json": "9694c69efab8863bbc3ccf35b7952144588315c6",
+      "/generated/ie-polyfills.min.js": "5cf09310adb60d45c9b32d181e0727562b3a47be",
+      "/generated/navigation.json": "4f14592b8941000679df6704b6fb963e5521fc10",
+      "/generated/resources.json": "fd02d434ba78397f21ede24e8b2a28c4e880eb3b",
+      "/generated/sitemap.xml": "60096f67a31bcf590085b070e8364dcc453dceb0",
+      "/generated/docs/about.json": "2839e43665d8ad60672936560ee43661f78a3bdc",
+      "/generated/docs/api.json": "91b795465d93b50d5488cf2fbd140800c16a1c1b",
+      "/generated/docs/contribute.json": "233c15e61ae9b562dc6183acde4dea22aea0c250",
+      "/generated/docs/docs.json": "fff26f2c3664ad0b8638632ee1b0acc57563a2e3",
+      "/generated/docs/events.json": "321321d021beb0f1c073bde87365381eda020979",
+      "/generated/docs/features.json": "5b2abf0c794a4190a082dae6c551eb5e5ed0bdae",
+      "/generated/docs/file-not-found.json": "bb969d77dfb33236c9877f8aa1c0f0770d41cd2f",
+      "/generated/docs/index.json": "a7ec927b406b8fe10ac7330e1a74fb659836a0ca",
+      "/generated/docs/license.json": "e8fab2ded63ec193a6a9becb05ce5a9f5c177db8",
+      "/generated/docs/overview-dump.html": "149a14ae2007a7dc7f4ed0a87b83fd1c006d2340",
+      "/generated/docs/presskit.json": "20880deef51a761e1a08d918cf7bb723065d4eba",
+      "/generated/docs/resources-contributing.json": "5ca9105abfdc090b46e3748747ac29ea375825d6",
+      "/generated/docs/resources.json": "efb245e64dc2062ede4c873c812fcb8ba75a5807",
+      "/generated/docs/test.json": "81304eec19c8eda52abb7ce4196916f8913d26d8",
+      "/generated/docs/tutorial.json": "040c63f76e5c5c011e214d623488a3c653173205",
+      "/generated/docs/api/api-list.json": "4c384187d5bbee5e33dad8740ab5f83d01f7323b",
+      "/generated/images/marketing/features/feature-icon.svg": "2cf6c1c11faee80b101b38c91f02184dada8cbe2",
+      "/generated/images/marketing/home/angular-connect.png": "3380b4e37acba46a21c6df4b191afe9088a53e2f",
+      "/generated/images/marketing/home/angular-mix.png": "17d1f12fbc1931fb71034cca93dda29cb31c8184",
+      "/generated/images/marketing/home/code-icon.svg": "ae8056842742474df9424cbac3b159b4416346d7",
+      "/generated/images/marketing/home/joyful-development.svg": "a8c8cb84ccab2b0a66afdc2431ffc2b44478c07a",
+      "/generated/images/marketing/home/loved-by-millions.svg": "3445b91a0cfc8a0a208573065ec824b31f28f5b6",
+      "/generated/images/marketing/home/ng-atl.png": "7e6254a3b6aeebc65ec13c9c1e7a6106787c7230",
+      "/generated/images/marketing/home/ng-conf.png": "a8e3fee5aa2998343a604fda2cb92b05f86659df",
+      "/generated/images/marketing/home/responsive-framework.svg": "464305c2e23be8cfa677aa7c5b34e923c17c9591",
+      "/generated/images/marketing/home/speed-performance.svg": "d67c709de15f5fb41617b1831f1c518e3ca2db74"
+    },
+    "versioned": [
+      "\\.[0-9a-z]{20}\\."
+    ]
+  }
+}
