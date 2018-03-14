@@ -613,12 +613,12 @@
     "prerelease": [
       "local"
     ],
-    "build": "sha.21e44c6",
+    "build": "sha.dccf2d4",
     "version": "6.0.0-local",
     "codeName": "snapshot",
     "isSnapshot": true,
-    "full": "6.0.0-local+sha.21e44c6",
+    "full": "6.0.0-local+sha.dccf2d4",
     "branch": "master",
-    "commitSHA": "21e44c6ba98387fa811a5f192fa09c13b60f9341"
+    "commitSHA": "dccf2d442827dcaab8deef77641e81fa756035ee"
   }
 }
